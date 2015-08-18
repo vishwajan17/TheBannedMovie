@@ -17,9 +17,10 @@ Note that the resulting sequence is not necessarily unique since there may be mu
 
 Given a String s containing only the digits '0' and '1', return the length of the shortest possible string that can result from applying the above algorithm to s.
 
-
+1010
 Definition
 
+0101010
 Class:	PalindromeEncoding
 Method:	getLength
 Parameters:	String
@@ -45,7 +46,7 @@ Returns: 1
 There is no palindrome of even length in this string, so nothing is changed.
 2)
 
-"01010111100110101110000001011000101000010111000111"
+"010101   11100110101110000001011000101000010111000111"
 Returns: 6
 
      */
@@ -71,4 +72,28 @@ Returns: 6
 
         return res;
     }
+
+    public int[] stackWareHouseBoxes(int[] weight, int[][] constraints)
+    {
+        if(weight == null || weight.length == 0)
+        {
+            return new int[0];
+        }
+
+        int length = weight.length;
+        int[] order = new int[length];
+        int[] effort = new int[length];
+
+        for(int i=0; i<length; i++)
+        {
+            effort[i] = Integer.MAX_VALUE;
+        }
+
+
+
+        return order;
+    }
+
+
+
 }
