@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b253d57-b8dd-44a2-b1c2-ee3d716199f2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algos/com/interview/prep/BannedStuff.java" afterPath="$PROJECT_DIR$/algos/com/interview/prep/BannedStuff.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algos/com/interview/prep/Geeks_Arrays.java" afterPath="$PROJECT_DIR$/algos/com/interview/prep/Geeks_Arrays.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algos/com/interview/prep/Test.java" afterPath="$PROJECT_DIR$/algos/com/interview/prep/Test.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algos/com/interview/prep/TopCoder_DP.java" afterPath="$PROJECT_DIR$/algos/com/interview/prep/TopCoder_DP.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="7b253d57-b8dd-44a2-b1c2-ee3d716199f2" name="Default" comment="" />
     <ignored path="TheBannedMovie.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -63,8 +57,8 @@
       <file leaf-file-name="Geeks_Arrays.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/algos/com/interview/prep/Geeks_Arrays.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5137157" vertical-offset="5584" max-vertical-offset="18165">
-              <caret line="386" column="35" selection-start-line="386" selection-start-column="35" selection-end-line="386" selection-end-column="35" />
+            <state vertical-scroll-proportion="0.7755611" vertical-offset="5584" max-vertical-offset="18165">
+              <caret line="393" column="0" selection-start-line="393" selection-start-column="0" selection-end-line="393" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#352#369#0" expanded="true" />
@@ -819,8 +813,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/algos/com/interview/prep/Geeks_Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5137157" vertical-offset="5584" max-vertical-offset="18165">
-          <caret line="386" column="35" selection-start-line="386" selection-start-column="35" selection-end-line="386" selection-end-column="35" />
+        <state vertical-scroll-proportion="0.7755611" vertical-offset="5584" max-vertical-offset="18165">
+          <caret line="393" column="0" selection-start-line="393" selection-start-column="0" selection-end-line="393" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#352#369#0" expanded="true" />
